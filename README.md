@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a self-taught web developer with a strong background in mathematics and statistics. My goal is to become an full-stack developer. All my coding projects are built from the ground up, from planning and designing to implementing code. Im currently working through The Odin Project to learn HTML, CSS and JavaScript. If you want to reach out to me you can do so through LinkedIn or email. I hope we get in touch.
+I'm a self-taught web developer with a strong background in mathematics and statistics. My goal is to become a full-stack developer. All my coding projects are built from the ground up, from planning and designing to implementing code. Im currently working through The Odin Project to learn HTML, CSS and JavaScript. If you want to reach out to me you can do so through LinkedIn or email. I hope we get in touch.
 
 ---
 
