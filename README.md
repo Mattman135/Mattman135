@@ -2,7 +2,7 @@
 
 **`On the road to becoming a full-stack web developer`**
 
-I'm a self-taught web developer with a background in mathematics and statistics. My goal is to become a full-stack developer and data analyst. All my coding projects are built from the ground up, from planning and designing to implementing code. Im currently working through The Odin Project to learn HTML, CSS and JavaScript. If you want to reach out to me you can do so through LinkedIn or email.
+I'm a self-taught web developer with a background in mathematics and statistics. My goal is to become a full-stack developer and data analyst. All my coding projects are built from the ground up, from planning and designing to implementing code. Im currently working through The Odin Project to learn HTML, CSS and JavaScript. If you want to reach out to me you can do so through my LinkedIn (link in profile).
 
 ---
 
