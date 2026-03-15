@@ -1,8 +1,6 @@
 # ☂️ Mattman135
 
-**`On the road to becoming a full-stack web developer`**
-
-I'm a self-taught web developer with a background in mathematics and statistics. My goal is to become a full-stack developer and data analyst. All my coding projects are built from the ground up, from planning and designing to implementing code. If you want to reach out to me you can do so through my LinkedIn (link in profile).
+I'm a self-taught full-stack developer with a background in mathematics and statistics. All my coding projects are built from the ground up, from planning and designing to implementing code. Feel free to reach out.
 
 ---
 
